@@ -1,15 +1,19 @@
-# Hero Section Animation Using GSAP in GeneratePress
+# GSAP Hero Animation
 
-This project demonstrates a hero section animation using GSAP inside a WordPress site powered by the GeneratePress theme.
+🚀 A modern animated hero section using GSAP (GreenSock). Smooth entry animation to showcase interactive design skills.
 
-## Features
-- Smooth text and button animations
-- GSAP scroll animation ready
+## 🔧 Tech Used
+- HTML5
+- CSS3
+- GSAP 3
 
-## How to Use
-1. Add HTML in a GeneratePress Element or page block
-2. Include `script.js` and `style.css`
-3. Enqueue GSAP via functions.php or a plugin
+## 🌐 Live Preview
+[Click here to view live](https://itz-akhilesh.github.io/gsap-hero-animation/)
 
-## Preview
-*Add screenshots to the screenshots/ folder*
+## 📸 Preview
+![screenshot](assets/screenshot.jpg) <!-- optional if you add an image -->
+
+---
+
+✅ This project is ideal for service-based websites and modern landing pages.
+
