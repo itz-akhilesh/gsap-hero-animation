@@ -1,14 +1,11 @@
-.hero {
+body {
+  background: #f7f7f7;
+  font-family: 'Segoe UI', sans-serif;
   text-align: center;
   padding: 100px 20px;
-  background: #f0f0f0;
 }
 
-.cta-button {
-  background: #ff6600;
-  padding: 10px 20px;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
+.hero-text {
+  font-size: 3rem;
+  color: #333;
 }
